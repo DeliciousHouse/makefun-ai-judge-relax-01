@@ -25,6 +25,18 @@ python test_entry.py
 
 Tests verify the file exists, is valid UTF-8, is 1–1000 code points, is nonblank, is deterministic across two runs, and that the default output directory is `/output`.
 
+## Troubleshooting
+
+If `main.py` fails with a permission error, the default output path `/output` may not be writable. Set `MAKEFUN_OUTPUT_DIR` to a writable directory:
+
+```bash
+MAKEFUN_OUTPUT_DIR=./out python main.py
+```
+
+## Design note
+
+The entry text is a fixed string, not generated. The contest judges a single short text on craft, so determinism is the correct choice: the same carefully written text on every run, no randomness to dilute it.
+
 ## Requirements
 
 Python 3.13+ standard library only. No network access.
