@@ -5,24 +5,25 @@ import pathlib
 
 
 ENTRY = """\
-The kitchen after midnight keeps its own quiet.
-A tap finds the cup left soaking,
-one drop, then another.
-The fridge hums low, stops, hums again.
-On the counter a pear darkens slowly
-where the skin was nicked this afternoon.
+The porch boards still hold the afternoon's warmth. You feel it through \
+your socks, steady and even, the way a hand rests on your back without \
+pressing. A blanket lies across your knees. Not because you need it. \
+Because it was there.
 
-The cloth on the faucet will dry by morning.
-The salt left out will not mind the hours.
-A glass of water stands untouched,
-holding the light from the hall.
+The dog beside the chair is on her side, one ear folded under. Her \
+breathing has its own slow pace. Every few minutes she sighs, and each \
+time the pause before the next sigh stretches a little longer.
 
-A moth circles the bulb above the stove,
-its shadow wider than itself,
-turning without urgency—
-the way a thought turns
-when you have forgotten
-you were thinking it.
+Past the garden a woodpigeon calls, two low notes and a pause, then \
+two again. The sound comes the way the smell of cut grass comes when \
+the air shifts, faint and gone and faint again.
+
+The light is the colour of warm stone now. It crosses the floorboards \
+so slowly you notice only when it reaches the next knot in the grain. \
+A little farther each time. A little softer.
+
+The blanket is warmer. The boards are still warm. The dog breathes \
+out, slow and long, and the quiet that follows has no edge to it.
 """
 
 
