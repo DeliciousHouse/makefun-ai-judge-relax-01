@@ -5,25 +5,24 @@ import pathlib
 
 
 ENTRY = """\
-The porch boards still hold the afternoon's warmth. You feel it through \
-your socks, steady and even, the way a hand rests on your back without \
-pressing. A blanket lies across your knees. Not because you need it. \
-Because it was there.
+Someone gave the hammock a push a while ago. You are still swaying, \
+but only just, each arc shorter than the last, the ropes pulling at \
+the top of each turn before they let you back. The canvas is cupped \
+around you, holding your weight without gripping.
 
-The dog beside the chair is on her side, one ear folded under. Her \
-breathing has its own slow pace. Every few minutes she sighs, and each \
-time the pause before the next sigh stretches a little longer.
+Overhead the leaves turn over and turn back as you pass beneath them. \
+The light comes in pieces, warm on your arm and then gone and then \
+warm again, each patch resting a little longer as you slow.
 
-Past the garden a woodpigeon calls, two low notes and a pause, then \
-two again. The sound comes the way the smell of cut grass comes when \
-the air shifts, faint and gone and faint again.
+The ropes creak where they wrap the branch. At first it kept a steady \
+rhythm, but the gaps have widened, and between them you can hear a \
+gate down the lane, and then nothing at all.
 
-The light is the colour of warm stone now. It crosses the floorboards \
-so slowly you notice only when it reaches the next knot in the grain. \
-A little farther each time. A little softer.
-
-The blanket is warmer. The boards are still warm. The dog breathes \
-out, slow and long, and the quiet that follows has no edge to it.
+Your heel brushes the ground at the low point of each pass. Just \
+grazes it. The hammock lifts you back, less each time. The air is \
+heavy and smells of clover. The turns shrink until you feel them in \
+your stomach, a faint tip and return, and then you cannot tell if you \
+are moving or the breeze is. It does not matter. You are held.
 """
 
 
