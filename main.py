@@ -5,24 +5,25 @@ import pathlib
 
 
 ENTRY = """\
-Someone gave the hammock a push a while ago. You are still swaying, \
-but only just, each arc shorter than the last, the ropes pulling at \
-the top of each turn before they let you back. The canvas is cupped \
-around you, holding your weight without gripping.
+The wheel is still turning but no one’s foot is on the pedal. \
+The clay sits centered on the bat, wide and wet, ringed where the \
+fingers last drew through it. As the wheel slows the wobble that \
+was always there but too fast to see comes through—a faint \
+lurch at each rotation, then less, then almost none.
 
-Overhead the leaves turn over and turn back as you pass beneath them. \
-The light comes in pieces, warm on your arm and then gone and then \
-warm again, each patch resting a little longer as you slow.
+Water has pooled in the tray beneath. It circles with the wheel, \
+lagging behind, settling toward the low side. A drip gathers on \
+the rim and falls, and the sound of it landing in the bucket is \
+the loudest thing in the room. The gap before the next one is longer.
 
-The ropes creak where they wrap the branch. At first it kept a steady \
-rhythm, but the gaps have widened, and between them you can hear a \
-gate down the lane, and then nothing at all.
+The hum of the wheel has dropped in pitch, low enough to feel \
+through the floor. The clay glistens where the sponge last touched \
+it. Its wet surface catches the window light at the same point in \
+each revolution, a bright crescent that stretches slower and slower \
+until it holds.
 
-Your heel brushes the ground at the low point of each pass. Just \
-grazes it. The hammock lifts you back, less each time. The air is \
-heavy and smells of clover. The turns shrink until you feel them in \
-your stomach, a faint tip and return, and then you cannot tell if you \
-are moving or the breeze is. It does not matter. You are held.
+The wheel turns once more, barely. The drip on the rim rounds but \
+does not fall. The water in the tray settles flat.
 """
 
 
