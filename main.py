@@ -5,25 +5,29 @@ import pathlib
 
 
 ENTRY = """\
-The wheel is still turning but no one’s foot is on the pedal. \
-The clay sits centered on the bat, wide and wet, ringed where the \
-fingers last drew through it. As the wheel slows the wobble that \
-was always there but too fast to see comes through—a faint \
-lurch at each rotation, then less, then almost none.
+The lamp by the chair is the only light left on. It puts a circle \
+on the ceiling that doesn’t move. Someone is sitting there \
+with a book, their feet tucked under them, close enough that you \
+can hear each page when it turns, a sound that is mostly air and \
+a little paper.
 
-Water has pooled in the tray beneath. It circles with the wheel, \
-lagging behind, settling toward the low side. A drip gathers on \
-the rim and falls, and the sound of it landing in the bucket is \
-the loudest thing in the room. The gap before the next one is longer.
+Your head is on the cushion and the blanket has been pulled up \
+without your asking. The fabric holds the smell of the cupboard \
+it came from, cedar and something older. Its weight is warm across \
+your shoulders and along your arms.
 
-The hum of the wheel has dropped in pitch, low enough to feel \
-through the floor. The clay glistens where the sponge last touched \
-it. Its wet surface catches the window light at the same point in \
-each revolution, a bright crescent that stretches slower and slower \
-until it holds.
+A page turns.
 
-The wheel turns once more, barely. The drip on the rim rounds but \
-does not fall. The water in the tray settles flat.
+The chair creaks when they shift their weight. The lamp hums so \
+low it is almost just warmth. The glass of water on the side table \
+has gone still. Outside, the street is quiet. The curtain moves \
+once in the open window and hangs.
+
+A page turns. The gap before it was longer this time, or you were \
+gone for a moment and came back to hear it. The circle on the \
+ceiling is still there. The blanket is still warm.
+
+A page turns, farther off now.
 """
 
 
